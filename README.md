@@ -90,5 +90,3 @@ int main()
 <img width="541" height="69" alt="image" src="https://github.com/user-attachments/assets/6478c0f0-de1a-46d4-840d-7fd91c3620ce" />
 
 
-Сдача: 300p
-
