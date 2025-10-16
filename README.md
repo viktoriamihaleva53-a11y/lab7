@@ -35,12 +35,12 @@
 int main() 
 {
     setlocale(LC_ALL, "RUS");
-    int day_number;
+    int day;
 
     printf("Введите порядковый номер дня недели (1-7): ");
-    scanf("%d", &day_number);
+    scanf("%d", &day);
 
-    switch (day_number) 
+    switch (day) 
     {
     case 1:
         printf("Понедельник\n");
